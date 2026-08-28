@@ -1,7 +1,7 @@
 ## T-1: Implementation of Login Page for all users.
 
 This task involves creating a login form component with email and password fields with a Login button, Allow to login all users from this page.
-**Implemented**
+**implemented**
 
 ## T-2: Receptionist can View Today's Bookings.
 
@@ -24,8 +24,12 @@ Provide receptionists with the ability to manage booking requests and maintain a
 **implemented**
 
 ## T-6: Receptionist can Search Bookings.
+
 Enable receptionists to efficiently locate customer reservations using relevant booking information.
 **implemented**
+
 ## T-7: Receptionist can Print Booking Receipt.
+
 Enable receptionists to generate and print an official receipt containing the customer's booking and payment information.
 **implemented**
+
